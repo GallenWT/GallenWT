@@ -25,7 +25,19 @@ Building thoughtful, inclusive, and accessible digital experiences at the inters
 I'm an **Entry-Level Product Designer** with over 2 years of hands-on experience crafting simple, meaningful, and accessible solutions. A graduate of the **Apple Developer Academy**, I’ve worked on real-world projects involving UI/UX design, product development, and team collaboration. With a background in **Information Systems**, I bring a unique perspective that connects **user needs**, **business goals**, and **technical feasibility**.
 
 ## 🧩 Skills
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="Swift logo" />
+</div>
 
 ## 🎓 Education
 **🎓 Bina Nusantara University**  
@@ -44,6 +56,10 @@ Product Designer | Mar 2024 – Dec 2024
 ## 🏆 Awards & Honors
 🏅 **80+ Academic Medals** (Gold x25, Silver x17, Bronze x25)  
 🏆 Overall Champion in 2 National Olympiads (2020–2024)  
-Subjects: Math, Physics, Chemistry, Design, Geography, English, etc.  
 📘 [Details available in my Portfolio](https://bit.ly/gwtportfolio)
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GallenWT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
