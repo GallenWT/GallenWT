@@ -19,32 +19,34 @@ Here are some ideas to get you started:
 🎨 Product Designer | 💡 Design Thinker | 🧠 Lifelong Learner  
 Building thoughtful, inclusive, and accessible digital experiences at the intersection of design, business, and tech.
 
-[📫 Email](mailto:gallenwt@gmail.com) | [🔗 LinkedIn](http://linkedin.com/in/gallenwt) | [🌐 Portfolio](https://bit.ly/gwtportfolio) | [📱 +62 851 8347 2529](https://wa.me/+6285183472529)
+[📫 Email](mailto:gallenwt@gmail.com) | [🔗 LinkedIn](http://linkedin.com/in/gallenwt) | [🌐 Portfolio](https://bit.ly/gwtportfolio)
 
 ## ✨ Summary
 I'm an **Entry-Level Product Designer** with over 2 years of hands-on experience crafting simple, meaningful, and accessible solutions. A graduate of the **Apple Developer Academy**, I’ve worked on real-world projects involving UI/UX design, product development, and team collaboration. With a background in **Information Systems**, I bring a unique perspective that connects **user needs**, **business goals**, and **technical feasibility**.
 
 ## 🧩 Skills
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="Swift logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+###
 ## 🎓 Education
-**🎓 Bina Nusantara University**  
-Bachelor of Information Systems | Sept 2021 – Aug 2025  
-📈 GPA: 3.86 / 4.00  
-**🍎 Apple Developer Academy @BINUS** 
-Product Designer | Mar 2024 – Dec 2024  
+**🎓 Bina Nusantara University** | Bachelor of Information Systems | Sept 2021 – Aug 2025  
+**🍎 Apple Developer Academy @BINUS** | Product Designer | Mar 2024 – Dec 2024  
 
 ## 🏅 Certifications
 - Apple Developer Program – Apple (2024)  
